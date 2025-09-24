@@ -1,0 +1,8 @@
+--find-links https://download.pytorch.org/whl/cpu/
+torch==1.13.1+cpu
+torchvision==0.14.1+cpu
+easyocr==1.6.2
+streamlit
+pillow
+pandas
+numpy
